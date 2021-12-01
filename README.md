@@ -8,7 +8,7 @@ _Learn how to perform statistics with Python_
 
 # LEVEL 1
 
- # Exercise 1
+ ## Exercise 1
   - Grab a sports theme dataset you like and select an attribute from the dataset. Calculate the mode, the median, the standard deviation, and the arithmetic mean.
  
  # Exercise 2
