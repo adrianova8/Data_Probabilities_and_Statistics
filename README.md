@@ -22,5 +22,5 @@ _Learn how to perform statistics with Python_
 
  # LEVEL 3
   
-  ## Exercise 4
+ ## Exercise 4
    - Continuing with the sports theme data, select an attribute and calculate the geometric mean and harmonic mean.
